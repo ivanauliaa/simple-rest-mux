@@ -1,7 +1,7 @@
 package router
 
 import (
-	"simple-rest-mux/handlers"
+	"github.com/ivanauliaa/simple-rest-mux/handlers"
 
 	"github.com/gorilla/mux"
 )

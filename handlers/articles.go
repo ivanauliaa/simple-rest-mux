@@ -6,8 +6,8 @@ import (
 	"io/ioutil"
 	"net/http"
 
-	"simple-rest-mux/data"
-	"simple-rest-mux/utils"
+	"github.com/ivanauliaa/simple-rest-mux/data"
+	"github.com/ivanauliaa/simple-rest-mux/utils"
 
 	"github.com/gorilla/mux"
 )

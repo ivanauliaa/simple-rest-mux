@@ -4,7 +4,7 @@ import (
 	"log"
 	"net/http"
 
-	"simple-rest-mux/router"
+	"github.com/ivanauliaa/simple-rest-mux/router"
 )
 
 func main() {
